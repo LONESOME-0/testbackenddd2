@@ -24,6 +24,7 @@ const allowedOrigins = [
   "https://adminjsd.vercel.app",
   "http://localhost:5172", // For local development
   "http://localhost:5173", // For local development
+  "https://usertest-nu.vercel.app"
 ];
 // Configure CORS
 app.use(
